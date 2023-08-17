@@ -35,7 +35,6 @@ const Footer = () => {
           index === 5 ? (item.style.opacity = 1) : (item.style.opacity = 0.2)
         );
         break;
-        
 
       default:
         allFooterLinks.forEach((item) => (item.style.opacity = 1));
@@ -110,18 +109,20 @@ const Footer = () => {
 
         <div>
           <h5>Email</h5>
-          <a href="mailto: info@mbachaiwala.com">Info@mbachaiwala.com</a>
-          <a href="mailto: franchise@mbachaiwala.com">
-            Franchise@mbachaiwala.com
+          <a href="mailto: deepakpctebca2021@gmail.com">
+            deepakpctebca2021@gmail.com
+          </a>
+          <a href="mailto: deepakpctebca2021@gmail.com">
+            Franchise@deepakpctebca2021@gmail.com
           </a>
         </div>
 
         <div>
           <h5>Phone</h5>
-          <a href="tel: +91722905222">+91722905222</a>
+          <a href="tel: +919878774969">+919878774969</a>
         </div>
 
-        <p>© COPYRIGHT 2022 MBA CHAIWALA. MADE BY</p>
+        <p>© COPYRIGHT 2023 MBA CHAIWALA. MADE BY DEEPAK</p>
       </footer>
       <div className="footer"></div>
     </>
